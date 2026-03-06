@@ -109,6 +109,6 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 <div>
     <a href="https://github.com/GustaBatista4329">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&langs_count=16&theme=dracula"
+        <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&langs_count=16&theme=dracula"/>
 </div>
           
