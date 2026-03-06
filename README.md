@@ -107,12 +107,3 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<br><br><br><br><br>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gustabatista4329&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;locale=pt-br"
-    alt="GitHub Stats do Gustavo Batista"
-    width="100%"
-  />
-</p>
