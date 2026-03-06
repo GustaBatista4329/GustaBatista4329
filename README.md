@@ -107,8 +107,6 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<div>
-    <a href="https://github.com/GustaBatista4329">
-        <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustabatista4329"/>
-</div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=gustabatista4329"/>
+
           
