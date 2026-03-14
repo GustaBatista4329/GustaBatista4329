@@ -105,8 +105,8 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     title="CSS"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=dracula&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
