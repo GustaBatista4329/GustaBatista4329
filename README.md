@@ -111,5 +111,3 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 <br clear="left"/>
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact)
