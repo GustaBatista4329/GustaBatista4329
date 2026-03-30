@@ -112,4 +112,4 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=dracula&hide=c%2B%2B,C,CMake)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact)
