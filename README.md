@@ -111,3 +111,5 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 <br clear="left"/>
 
 ---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustaBatista4329&theme=tokyonight)
