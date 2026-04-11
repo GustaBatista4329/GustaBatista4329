@@ -120,4 +120,4 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustaBatista4329&theme=tokyonight)
