@@ -123,5 +123,4 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustaBatista4329&theme=tokyonight)
 
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaBatista4329)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaBatista4329)](https://github.com/anuraghazra/github-readme-stats)
