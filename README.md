@@ -124,4 +124,4 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GustaBatista4329=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustaBatista4329)](https://github.com/anuraghazra/github-readme-stats)
