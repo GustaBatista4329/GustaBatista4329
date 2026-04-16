@@ -10,8 +10,8 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 ### 🤖 Linguagens e Tecnologias
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="HTML"
+    title="HTML"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -26,16 +26,16 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Typescript"
+    title="Typescript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -43,16 +43,16 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="java"
+    title="java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
                     
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Sring"
+    title="Spring"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -60,8 +60,8 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Flutter"
+    title="Flutter"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
@@ -69,40 +69,40 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="postgreSQL"
+    title="postgreSQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="SQL server"
+    title="SQL server"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="mySQL"
+    title="mySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
  
  <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Firebase"
+    title="Firebase"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />  
 
  <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Docker"
+    title="Docker"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
@@ -110,8 +110,8 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
           
 <img 
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
