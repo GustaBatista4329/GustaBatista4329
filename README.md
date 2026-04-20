@@ -7,9 +7,30 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
-
 ### 🤖 Linguagens e Tecnologias
+
+**Backend**
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img 
+    align="left"
+    alt="Spring"
+    title="Spring"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<br clear="left"/>
+<br/>
+
+**Frontend & Mobile**
+
 <img
     align="left"
     alt="HTML"
@@ -17,7 +38,6 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
 <img
     align="left"
     alt="CSS"
@@ -25,7 +45,6 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
 <img 
     align="left"
     alt="JavaScript"
@@ -33,33 +52,13 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
 <img 
     align="left"
-    alt="Typescript"
-    title="Typescript"
+    alt="TypeScript"
+    title="TypeScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-                              
-
-<img
-    align="left"
-    alt="java"
-    title="java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-                    
-<img 
-    align="left"
-    alt="Sring"
-    title="Spring"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-
 <img
     align="left"
     alt="Flutter"
@@ -67,57 +66,60 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-              
+
+<br clear="left"/>
+<br/>
+
+**Bancos de Dados**
 
 <img 
     align="left"
-    alt="postgreSQL"
-    title="postgreSQL"
+    alt="PostgreSQL"
+    title="PostgreSQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      
-<img 
-    align="left"
-    alt="SQL server"
-    title="SQL server"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-
 <img
     align="left"
-    alt="mySQL"
-    title="mySQL"
+    alt="MySQL"
+    title="MySQL"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
- 
- <img 
+<img 
+    align="left"
+    alt="SQL Server"
+    title="SQL Server"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img 
     align="left"
     alt="Firebase"
     title="Firebase"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 
- <img 
+<br clear="left"/>
+<br/>
+
+**DevOps & Ferramentas**
+
+<img 
     align="left"
     alt="Docker"
     title="Docker"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-          
 <img 
     align="left"
     alt="Git"
     title="Git"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />   
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <br clear="left"/>
 
