@@ -123,8 +123,7 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 ## 📊 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GustaBatista4329&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=tokyonight&langs_count=4" alt="Most Used Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GustaBatista4329&show_icons=true&theme=tokyonight&count_private=true&card_width=450" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=tokyonight&langs_count=4&card_width=450" alt="Most Used Languages" height="170"/>
 </p>
-
 
