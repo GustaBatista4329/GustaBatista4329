@@ -126,8 +126,7 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
     title="AWS"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
 <br clear="left"/>
 
