@@ -1,136 +1,129 @@
-# 🧑‍💻 Gustavo Batista
+<h1 align="center">👋 Olá, eu sou o Gustavo Batista</h1>
 
-**`Desenvolvedor Back-end`**
+<p align="center">
+  <b>Desenvolvedor Back-end</b> · Java · Spring Boot · APIs REST
+</p>
 
-Me chamo Gustavo Batista Gonçalves, tenho 20 anos e sou natural do Góias. Atualmente, estou cursando Engenharia de Software na UniEvangélica(Universidade Evangélica de Goiás). Sou, antes de tudo, um entusiasta da tecnologia, curto transformar ideias em projetos reais, principamente **APIs**, integrações com serviços, e apilcações que envolvem **backend + banco de dados**. 
-Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluindo o projeto com boas práticas, organização e testes do que for fazendo sentido no contexto.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_to_Work-22C55E?style=for-the-badge&logo=briefcase&logoColor=white" alt="Aberto a oportunidades" />
+  <img src="https://img.shields.io/badge/An%C3%A1polis_–_GO-1E40AF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização: Anápolis - GO" />
+  <img src="https://img.shields.io/badge/Foco-Backend_Júnior-6B21A8?style=for-the-badge" alt="Foco profissional: Backend Júnior" />
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-**Backend**
+Sou de **Anápolis – GO** e meu foco é **back-end com Java e Spring Boot**: APIs REST, modelagem de dados, regras de negócio e integrações. Gosto de pegar um problema, quebrá-lo em partes e ir evoluindo a solução com boas práticas — versionamento, migrations, separação em camadas e validações no lugar certo.
 
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img 
-    align="left"
-    alt="Spring"
-    title="Spring"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+Atualmente atuo com **Suporte Técnico** em uma grande rede de atacarejo, lidando todos os dias com troubleshooting, fluxo alto e prazos curtos. Antes da TI, atuei na área de **logística** como Conferente de Carga — uma trajetória que me deu base sólida em **organização, foco em prazo e trabalho sob pressão**, valores que carrego pra dentro do código.
 
-<br clear="left"/>
-<br/>
+> 🎯 Em busca da minha primeira oportunidade como **Desenvolvedor Back-end Júnior** em Java/Spring Boot.
 
-**Frontend & Mobile**
+---
 
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img 
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img
-    align="left"
-    alt="Flutter"
-    title="Flutter"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+## 🛠️ Stack Técnica
 
-<br clear="left"/>
-<br/>
+**Linguagens & Frameworks**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JPA" />
+</p>
 
 **Bancos de Dados**
 
-<img 
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img 
-    align="left"
-    alt="SQL Server"
-    title="SQL Server"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img 
-    align="left"
-    alt="Firebase"
-    title="Firebase"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+</p>
 
-<br clear="left"/>
-<br/>
+**Ferramentas & Versionamento**
 
-**DevOps & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+</p>
 
-<img 
-    align="left"
-    alt="Docker"
-    title="Docker"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img 
-    align="left"
-    alt="AWS"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+**📚 Estudando agora**
 
-<br clear="left"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
+</p>
 
 ---
-### 📊 Minhas Estatísticas
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="180"/>
+
+## 📌 Projetos em destaque
+
+### 🎓 [espaco-kids](https://github.com/GustaBatista4329/espaco-kids)
+> API REST para gestão de uma escola de reforço infantil.
+
+- **Stack:** Java 17 · Spring Boot · Spring Security · PostgreSQL · Flyway · BCrypt
+- **Highlights:** arquitetura em camadas (Controller → Service → Repository), autenticação com hash de senhas, migrations versionadas para 5 entidades, Bean Validation aplicada nos DTOs
+- **Aprendizados:** Spring Security do zero, debugging de injeção de dependência, decisões de modelagem em projeto real
+
+### 🏭 [conectaDaia](https://github.com/GustaBatista4329/conectaDaia)
+> Plataforma que conecta empresas e trabalhadores do Distrito Agroindustrial de Anápolis (DAIA).
+
+- **Stack:** Java · Spring Boot · MySQL · Flyway · JPA/Hibernate · Lombok
+- **Highlights:** modelagem de relacionamentos bidirecionais, organização *package-by-feature*, validações em DTO + constraints no schema do banco
+- **Aprendizados:** mapeamento JPA avançado, definição consciente de arquitetura (camadas simples vs Clean Architecture), payloads de teste estruturados no Insomnia
+
+### 📚 [spring-boot-series](https://github.com/GustaBatista4329/spring-boot-series)
+> Repositório de estudos com exemplos práticos de Spring Boot — meu laboratório pra testar conceitos antes de aplicar nos projetos principais.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustaBatista4329&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GustaBatista4329&theme=tokyonight&hide_border=true" alt="Streak de contribuições" />
+</p>
+
+---
+
+## 📜 Certificações
+
+**Java · Spring Boot · SQL · Python · JavaScript · Power BI**
+*Plataformas:* Alura · Udemy · Curso em Vídeo
+
+📂 [Veja todos os certificados](https://github.com/GustaBatista4329/certificados)
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavobatistages/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gustavobatista429@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5562986309743" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:gustavobatista429@gmail.com">gustavobatista429@gmail.com</a> &nbsp;·&nbsp;
+  📱 +55 (62) 98630-9743 &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/gustavobatistages/">in/gustavobatistages</a>
+</p>
+
+<p align="center"><i>Aberto a vagas presenciais em Anápolis/Goiânia, híbridas e remotas.</i></p>
