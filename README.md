@@ -48,11 +48,6 @@ Gosto de aprender construindo: pego um problema, quebro em partes e vou evoluind
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustaBatista4329&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="180"/>
-
----
 
 ### 📫 Contatos
 
